@@ -23,7 +23,7 @@ word break
 climbing stairs
 Cycle in linkedList
 sum of three elemenst =0
-unique paths in matrix
+unique paths in matrix : NOT DONE; USING 1D
 LCA : 1
 word search 
 Inorder successor in BST
