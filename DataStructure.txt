@@ -24,7 +24,7 @@ climbing stairs
 Cycle in linkedList
 sum of three elemenst =0
 unique paths in matrix
-LCA
+LCA : 1
 word search 
 Inorder successor in BST
 merge intervals
