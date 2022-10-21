@@ -50,7 +50,7 @@ Sudoku solver
 n Queen
 permutation
 combination
-subset
+subset : 1
 All paths from source to target: graph
 word break 2
 https://leetcode.com/problems/subarray-sum-equals-k
