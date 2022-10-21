@@ -3,7 +3,7 @@ meeting merge
 nth node from last of linkedList : 1
 4. Flatten List
 5. Stock prices
-6. Maximum water trapping
+6. Maximum water trapping : -1
 7. Decode Array
 zifg zag tree traversal
 inorder tree traversal
