@@ -63,7 +63,7 @@ https://leetcode.com/problems/next-greater-element-ii
 https://leetcode.com/problems/network-delay-time
 https://leetcode.com/problems/number-of-distinct-islands
 https://leetcode.com/problems/one-edit-distance
-reverse List
+reverse List : 1
 symmetric tree
 merge 2 sorted lists
 Longest palindrome
