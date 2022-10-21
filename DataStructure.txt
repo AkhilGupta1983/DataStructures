@@ -70,17 +70,3 @@ Longest palindrome
 Flood Fill
 interation of 2 lists
 
-
-
-
-
-
-
-
-
-  Sliding windows
-  
-  two poointers
-  
-  DFS/BFS
-  
