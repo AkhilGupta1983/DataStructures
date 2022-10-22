@@ -7,7 +7,7 @@ nth node from last of linkedList : 1
 6. Maximum water trapping : -1
 7. Decode Array: -1
 zifg zag tree traversal : -1
-inorder tree traversal
+inorder tree traversal: 1
 minimum length substring
 search in rotated array
 subsets with sum equal to target
