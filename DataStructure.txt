@@ -7,7 +7,7 @@ nth node from last of linkedList : 1
 6. Maximum water trapping : -1
 7. Decode Array: -1
 zifg zag tree traversal : -1
-inorder tree traversal: 1
+tree traversal: 1
 minimum length substring
 search in rotated array : 1
 subsets with sum equal to target
@@ -27,7 +27,7 @@ sum of three elemenst =0
 unique paths in matrix : NOT DONE; USING 1D
 LCA : 1
 word search 
-Inorder successor in BST
+Inorder successor in BST : 1 (do again)
 merge intervals
 last stone weight
 coin change
