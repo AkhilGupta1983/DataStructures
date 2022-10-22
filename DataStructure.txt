@@ -14,7 +14,7 @@ subsets with sum equal to target
 longest substring with non repeating
 minimum stack: -1 (try with custom node)
 maximum meetings in room
-right pointer to node in tree
+right pointer to node in tree: 1
 spiral matrix
 rotate matrix
 greater number to right
