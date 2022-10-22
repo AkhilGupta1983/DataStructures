@@ -22,7 +22,7 @@ Lru cache
 minimum change to make string valid
 word break 
 climbing stairs :1
-Cycle in linkedList
+Cycle in linkedList: 1
 sum of three elemenst =0
 unique paths in matrix : NOT DONE; USING 1D
 LCA : 1
