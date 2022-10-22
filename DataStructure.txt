@@ -9,7 +9,7 @@ nth node from last of linkedList : 1
 zifg zag tree traversal : -1
 inorder tree traversal: 1
 minimum length substring
-search in rotated array
+search in rotated array : 1
 subsets with sum equal to target
 longest substring with non repeating
 minimum stack
