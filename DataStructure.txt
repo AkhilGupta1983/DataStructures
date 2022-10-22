@@ -12,7 +12,7 @@ minimum length substring
 search in rotated array : 1
 subsets with sum equal to target
 longest substring with non repeating
-minimum stack
+minimum stack: -1 (try with custom node)
 maximum meetings in room
 right pointer to node in tree
 spiral matrix
