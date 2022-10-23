@@ -28,7 +28,7 @@ unique paths in matrix : NOT DONE; USING 1D
 LCA : 1
 word search 
 Inorder successor in BST : 1 (do again)
-merge intervals
+merge intervals : 1
 last stone weight
 coin change
 course scheduled
