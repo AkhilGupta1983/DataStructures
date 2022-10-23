@@ -50,7 +50,7 @@ partition equal subset sum
 Letter combination for phone number
 Sudoku solver
 n Queen
-permutation
+permutation: 1
 combination
 subset : 1
 All paths from source to target: graph
