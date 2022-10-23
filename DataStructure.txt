@@ -19,7 +19,7 @@ right pointer to node in tree: 1
 spiral matrix: -1
 rotate matrix
 greater number to right
-Lru cache
+Lru cache: -1 / MUST REPEAT
 minimum change to make string valid
 word break 
 climbing stairs :1
