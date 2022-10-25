@@ -9,7 +9,7 @@ nth node from last of linkedList : 1
 https://leetcode.com/problems/meeting-rooms-ii/ : -1
 zifg zag tree traversal : -1
 tree traversal: 1
-minimum length substring
+minimum length substring: 1
 search in rotated array : 1
 subsets with sum equal to target
 longest substring with non repeating : 1 (do again with map)
