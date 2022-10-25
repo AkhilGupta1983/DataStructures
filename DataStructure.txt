@@ -21,7 +21,7 @@ rotate matrix
 greater number to right
 Lru cache: -1 / MUST REPEAT
 minimum change to make string valid
-word break 
+word break : -1
 climbing stairs :1
 Cycle in linkedList: 1
 sum of three elemenst =0
