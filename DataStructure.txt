@@ -42,7 +42,7 @@ sliding window maximum
 course schedule 2
 All nodes distance K in Tree
 Tree vertical order traversal
-Tree right side view
+Tree right side view: -1
 Path Sum : tree
 Construct tree from pre and post order
 longest palindromic substring
