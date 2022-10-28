@@ -36,7 +36,7 @@ course scheduled
 Sliding window median; median of stream : heap
 remove duplicates from list : two pointers
 Clone Graph: -1
-Swap nodes in pairs
+Swap nodes in pairs: -1
 swap nodes in group of k
 sliding window maximum
 course schedule 2
