@@ -66,7 +66,7 @@ https://leetcode.com/problems/network-delay-time
 https://leetcode.com/problems/number-of-distinct-islands
 https://leetcode.com/problems/one-edit-distance
 reverse List : 1
-symmetric tree
+symmetric tree : 1
 merge 2 sorted lists
 Longest palindrome
 Flood Fill
