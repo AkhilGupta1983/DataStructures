@@ -38,7 +38,7 @@ remove duplicates from list : two pointers
 Clone Graph: -1
 Swap nodes in pairs: -1
 swap nodes in group of k
-sliding window maximum
+sliding window maximum: -1
 course schedule 2
 All nodes distance K in Tree
 Tree vertical order traversal
