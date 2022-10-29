@@ -51,7 +51,7 @@ Letter combination for phone number: -1
 Sudoku solver
 n Queen
 permutation: 1
-combination
+combination: 1
 subset : 1
 All paths from source to target: graph
 word break 2
