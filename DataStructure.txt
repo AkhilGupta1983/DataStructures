@@ -47,7 +47,7 @@ Path Sum : tree
 Construct tree from pre and post order
 longest palindromic substring
 partition equal subset sum
-Letter combination for phone number
+Letter combination for phone number: -1
 Sudoku solver
 n Queen
 permutation: 1
