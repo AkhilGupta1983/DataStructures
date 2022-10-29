@@ -68,7 +68,7 @@ https://leetcode.com/problems/one-edit-distance
 reverse List : 1
 symmetric tree : 1
 merge 2 sorted lists
-Longest palindrome
+Longest palindrome: https://leetcode.com/problems/longest-palindrome/ (): -1
 Flood Fill: -1 (why insitiate color check)
 interation of 2 lists: -1
 
