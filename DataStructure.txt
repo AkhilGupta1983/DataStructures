@@ -32,7 +32,7 @@ Inorder successor in BST : 1 (do again)
 merge intervals : 1
 last stone weight
 coin change
-course scheduled
+course scheduled: -1
 Sliding window median; median of stream : heap
 remove duplicates from list : two pointers
 Clone Graph: -1
