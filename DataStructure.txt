@@ -14,7 +14,7 @@ search in rotated array : 1
 subsets with sum equal to target: https://leetcode.com/problems/partition-equal-subset-sum/ : -1/ try with 1D
 longest substring with non repeating : 1 (do again with map)
 minimum stack: -1 (try with custom node)
-maximum meetings in room: -1
+maximum meetings in room: -1 | 0
 right pointer to node in tree: 1
 spiral matrix: -1
 rotate matrix: -1
