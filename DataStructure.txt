@@ -18,7 +18,7 @@ minimum stack: -1 (try with custom node)
 maximum meetings in room: -1 | 0
 right pointer to node in tree: 1
 spiral matrix: -1
-rotate matrix: -1
+rotate matrix: -1 : +1
 greater number to right
 Lru cache: -1 / MUST REPEAT
 minimum change to make string valid
