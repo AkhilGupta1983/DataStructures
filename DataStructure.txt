@@ -53,7 +53,7 @@ n Queen
 permutation: 1
 combination: 1
 subset : 1
-All paths from source to target: graph
+All paths from source to target: graph: -1
 word break 2
 https://leetcode.com/problems/subarray-sum-equals-k
 https://leetcode.com/problems/group-anagrams
