@@ -2,7 +2,7 @@ https://leetcode.com/problems/number-of-islands/
 meeting merge
 nth node from last of linkedList : 1
 4. Flatten List
-5. Stock prices
+5. Stock prices: 1
    Stock prices2
 6. Maximum water trapping : -1 | 0 (try logic again)
 7. Decode Array: -1
