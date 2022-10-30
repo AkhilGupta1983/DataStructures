@@ -3,7 +3,7 @@ meeting merge
 nth node from last of linkedList : 1
 4. Flatten List
 5. Stock prices: 1
-   Stock prices2
+   Stock prices2 : 0 (try again simplest solution)
 6. Maximum water trapping : -1 | 0 (try logic again)
 7. Decode Array: -1
 https://leetcode.com/problems/meeting-rooms-ii/ : -1
