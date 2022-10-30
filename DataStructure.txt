@@ -32,7 +32,7 @@ word search : -1
 Inorder successor in BST : 1 (do again)
 merge intervals : 1
 last stone weight
-coin change
+coin change: -1 | loop order? amount to coin or coin to amount
 course scheduled: -1
 Sliding window median; median of stream : heap
 remove duplicates from list : two pointers
