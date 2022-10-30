@@ -73,3 +73,6 @@ Longest palindrome: https://leetcode.com/problems/longest-palindrome/ (): -1
 Flood Fill: -1 (why insitiate color check)
 interation of 2 lists: -1
 
+>>>>>>>>>>>>>>>>>>>
+
+https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
