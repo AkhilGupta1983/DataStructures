@@ -11,7 +11,7 @@ zifg zag tree traversal : -1
 tree traversal: 1
 minimum length substring: 1
 search in rotated array : 1
-subsets with sum equal to target
+subsets with sum equal to target: https://leetcode.com/problems/partition-equal-subset-sum/ : -1/ try with 1D
 longest substring with non repeating : 1 (do again with map)
 minimum stack: -1 (try with custom node)
 maximum meetings in room
