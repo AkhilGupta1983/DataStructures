@@ -35,7 +35,7 @@ last stone weight
 coin change: -1 | loop order? amount to coin or coin to amount
 course scheduled: -1
 Sliding window median; median of stream : heap
-remove duplicates from list : two pointers
+remove duplicates from list : +1
 Clone Graph: -1
 Swap nodes in pairs: -1
 swap nodes in group of k
