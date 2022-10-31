@@ -22,7 +22,7 @@ rotate matrix: -1 : +1
 greater number to right
 Lru cache: 0
 minimum change to make string valid
-word break : -1
+word break : 0
 climbing stairs :1
 Cycle in linkedList: 1
 sum of three elemenst =0
