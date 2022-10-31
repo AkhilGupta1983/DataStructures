@@ -1,6 +1,6 @@
 https://leetcode.com/problems/number-of-islands/
 meeting merge
-Check if path exists in graph: 1. using queue 2. using uinion find
+Check if path exists in graph: 1. using queue 2. using uinion find: -2
 nth node from last of linkedList : 1
 4. Flatten List
 5. Stock prices: 1
