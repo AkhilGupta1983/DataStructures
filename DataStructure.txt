@@ -76,4 +76,10 @@ interation of 2 lists: -1
 
 >>>>>>>>>>>>>>>>>>>
 
+
+STEP2:
 https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
+
+STEP3:
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
