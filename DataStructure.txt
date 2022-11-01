@@ -2,6 +2,7 @@ https://leetcode.com/problems/number-of-islands/
 meeting merge
 Check if path exists in graph: 1. using queue 2. using uinion find: -2
 nth node from last of linkedList : 1
+insert intervals
 4. Flatten List
 5. Stock prices: 1
    Stock prices2 : 0 (try again simplest solution)
