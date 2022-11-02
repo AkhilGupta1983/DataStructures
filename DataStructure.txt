@@ -1,5 +1,8 @@
 https://leetcode.com/problems/number-of-islands/
 meeting merge
+word search 2:
+https://leetcode.com/problems/word-search-ii/solution/
+
 Check if path exists in graph: 1. using queue 2. using uinion find: -2
 nth node from last of linkedList : 1
 insert intervals: -2
